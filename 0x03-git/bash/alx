@@ -1,8 +1,2 @@
 #!/bin/bash
-<<<<<<< HEAD
 echo "ALX School"
-=======
-echo "ALX School is so cool" 
-echo "ALX School" 
->>>>>>> origin/update_script
->>>>>>> c9abcae49d6dc79abf10d1b1f6fe684aa7407bb0
